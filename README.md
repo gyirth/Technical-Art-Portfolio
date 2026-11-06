@@ -15,9 +15,3 @@ particularly shaders, particle effects and animation.
 
 ## Featured Projects
 Projects will be added as I develop my technical art skills.
-
-## Current Learning Goals
-- Unity Shader Graph
-- Real-time particle effects
-- HLSL shader programming
-- Unreal Engine Niagara
